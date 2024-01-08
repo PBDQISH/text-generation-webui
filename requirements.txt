@@ -10,7 +10,7 @@ datasets
 einops
 exllamav2==0.0.5; platform_system != "Darwin" and platform_machine != "x86_64"
 markdown
-numpy==1.24
+numpy==1.26.3
 optimum==1.13.1
 pandas
 peft==0.5.*
